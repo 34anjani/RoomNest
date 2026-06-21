@@ -41,7 +41,7 @@ RoomNest is a console-based hostel management system built with C++ and file han
  
 ## 🚀 How to Run
 
-     ```bash
+```bash
     g++ modification.cpp -o RoomNest.exe
     RoomNest.exe
-    ```
+```
