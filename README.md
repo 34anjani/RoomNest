@@ -1,13 +1,12 @@
-
 # 🏨 RoomNest – Hostel Accommodation Management System
 
 ## 📌 Overview
 
-RoomNest is a console-based Hostel Accommodation Management System built in C++ that provides separate interfaces for administrators and students. The system uses role-based authentication where admins can view hostel details (name, rent, bed availability) and students can reserve beds. It implements duplicate booking prevention ensuring each student can only reserve one bed, and automatically updates bed availability in real-time after every bed reservation. All data including hostel information, user credentials, and bed reservations is stored in text files so nothing is lost.
+**RoomNest** is a **console-based Hostel Accommodation Management System** built in C++ that provides **separate interfaces** for **administrators and students**. The system uses **role-based authentication** where admins can view hostel details (name, rent, bed availability) and students can reserve beds. It implements duplicate booking prevention ensuring each student can only reserve one bed, and **automatically updates bed availability** in real-time after every bed reservation. All data including hostel information, user credentials, and bed reservations is stored in **text files** so nothing is lost.
 
 ---
 
- ## 🔑 Key Features
+## 🔑 Key Features
   
 * **✅ Role-Based Authentication** – Separate login portals for Admin and Student with credential validation from a database.
 * **🛏️ Smart Bed Reservation** – Students can reserve available beds with real-time availability tracking and automatic inventory updates.
