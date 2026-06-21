@@ -19,9 +19,9 @@
    
 ## 🛠️ Tech Stack
 
-* Language: C++ (OOP)
-* Data Storage: File Handling (fstream – ifstream/ofstream)
-* Concepts Used:
+* **Language**: C++ (OOP)
+* **Data Storage**: File Handling (fstream – ifstream/ofstream)
+* **Concepts Used**:
   - Object-Oriented Programming (Classes, Encapsulation, Constructors)
   - File I/O for persistent data management
   - Authentication & Authorization logic
